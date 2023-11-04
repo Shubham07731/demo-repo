@@ -1,4 +1,4 @@
 # demo-repo
 This is my first Git Repository
 <br/>
-Author-Shubham Maini
+Author-Shubham Maini (Learning Github)
